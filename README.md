@@ -10,7 +10,7 @@
 
 * **Languages**: C# / .NET, Batch Scripting
 * **Networking**: OpenWrt, V2Ray, DNS, DHCP
-* **Devices**: OneCloud (玩客云), N1 Box
+* **Devices**: N1 Box, OEC-Turbo
 
 ### :rocket: Current Projects
 
@@ -31,5 +31,6 @@
 ---
 
 :globe_with_meridians: *From USA | Always tinkering.*
+
 
 
