@@ -10,16 +10,6 @@
 * **Networking**: OpenWrt, DNS, DHCP
 * **Devices**: N1 Box, OEC-Turbo
 
-### :rocket: Current Projects
-
-**[SimpleGatewaySwitcher](https://github.com/iTeknet/SimpleGatewaySwitcher)**
-
-> 一个 Windows 下的轻量级网关切换工具。
-> 
-> * :white_check_mark: 专为旁路由/软路由用户设计
-> * :twisted_rightwards_arrows: 一键在 DHCP 和静态 IP 之间切换
-> * :zap: C# 原生开发，单文件运行
-
 ---
 
 ### :chart_with_upwards_trend: Stats
@@ -29,6 +19,7 @@
 ---
 
 :globe_with_meridians: *From USA | Always tinkering.*
+
 
 
 
