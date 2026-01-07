@@ -2,14 +2,12 @@
 
 :computer: **Network Enthusiast & Developer**
 
-我是一名热衷于网络技术和家庭实验室（HomeLab）的开发者。喜欢折腾软路由、NAS 以及编写实用的网络工具。
-
 ---
 
 ### :hammer_and_wrench: My Tech Stack
 
 * **Languages**: C# / .NET, Batch Scripting
-* **Networking**: OpenWrt, V2Ray, DNS, DHCP
+* **Networking**: OpenWrt, DNS, DHCP
 * **Devices**: N1 Box, OEC-Turbo
 
 ### :rocket: Current Projects
@@ -31,6 +29,7 @@
 ---
 
 :globe_with_meridians: *From USA | Always tinkering.*
+
 
 
 
